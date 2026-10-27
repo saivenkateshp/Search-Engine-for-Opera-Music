@@ -1,0 +1,6 @@
+flask>=2.0
+flask-cors>=3.0
+pysolr>=3.9
+networkx>=2.6
+nltk>=3.6
+numpy
